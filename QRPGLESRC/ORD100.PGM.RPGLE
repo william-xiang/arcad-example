@@ -9,7 +9,9 @@
 
      forder     o    e             disk
      fdetord    o    e           k disk
-     fTmpdetord uf a e           k disk    rename(fdeto:tmprec)
+     fTmpdetord uf a e           k disk    EXTDESC('DETORD')
+     f                                     EXTFILE(*EXTDESC)
+     f                                     rename(fdeto:tmprec)
      ford100d   cf   e             workstn
      F                                     indds(indds)
      F                                     sfile(sfl01:rrn01)
