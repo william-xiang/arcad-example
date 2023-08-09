@@ -1,7 +1,7 @@
       *%METADATA                                                                          *
       * %TEXT                                                                             *
       *%EMETADATA                                                                         *
-     h dftactgrp(*no)
+     h dftactgrp(*no) bnddir('SAMPLE')
      fpro202d   cf   e             workstn
 
       /COPY ../QPROTOSRC/XSS.RPGLEINC

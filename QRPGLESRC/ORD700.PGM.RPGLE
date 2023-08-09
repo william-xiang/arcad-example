@@ -1,7 +1,7 @@
       *%METADATA                                                                          *
       * %TEXT                                                                             *
       *%EMETADATA                                                                         *
-     H dftactgrp(*no)
+     H dftactgrp(*no) bnddir('SAMPLE') 
 
      Farticle1  UF   E           K DISK
 

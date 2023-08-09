@@ -1,7 +1,7 @@
       *%METADATA                                                                          *
       * %TEXT Print customer order                                                        *
       *%EMETADATA                                                                         *
-     h dftactgrp(*no)
+     h dftactgrp(*no) bnddir('SAMPLE')
 
      ford500o   o    e             printer oflind(overflow)
 
