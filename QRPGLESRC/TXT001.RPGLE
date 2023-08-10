@@ -1,6 +1,3 @@
-      *%METADATA                                                                          *
-      * %TEXT                                                                             *
-      *%EMETADATA                                                                         *
 **free
 CTL-OPT NOMAIN;
 
