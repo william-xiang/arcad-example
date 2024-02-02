@@ -1,0 +1,11 @@
+{
+  "repository": "git@github.com:william-xiang/arcad-example.git",
+  "extensions": {
+    "arcad": {
+      "code": "WEX01"
+    }
+  },
+  "objlib": "&verlibwex01",
+  "buildCommand": "elias compile {branch}",
+  "compileCommand": "elias compile {branch} -f {files}"
+}
